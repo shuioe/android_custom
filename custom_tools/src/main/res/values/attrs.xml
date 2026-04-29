@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircularProgressBar">
+        <!-- 圆环宽度 -->
+        <attr name="circleWidth" format="dimension" />
+        <!-- 背景颜色 -->
+        <attr name="backgroundColor" format="color" />
+        <!-- 进度颜色 -->
+        <attr name="progressColor" format="color" />
+        <!-- 最大进度 -->
+        <attr name="maxProgress" format="integer" />
+        <!-- 当前进度 -->
+        <attr name="progress" format="integer" />
+    </declare-styleable>
+</resources>

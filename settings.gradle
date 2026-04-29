@@ -26,3 +26,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "CustomTools"
 include ':custom_tools'
+include ':testview'
