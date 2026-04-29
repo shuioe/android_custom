@@ -1,3 +1,2 @@
--keep public class com.xiaosi.customtools.utils.Logger {
-    public *;
-}
+-keep public class com.xiaosi.customtools.utils.** {*;}
+-keep public class com.xiaosi.customtools.views.** {*;}
